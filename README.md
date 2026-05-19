@@ -115,7 +115,7 @@ Storage location:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TechSticky.git
+git clone https://github.com/Shawn2208/TechSticky.git
 cd TechSticky
 ```
 
