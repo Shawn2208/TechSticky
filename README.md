@@ -201,6 +201,26 @@ TechSticky is ideal for:
 
 ---
 
+# Screenshots
+
+
+
+![Markdown Preview](preview_1.png)
+
+---
+
+
+
+![Code Blocks](preview_2.png)
+
+---
+
+
+
+![Code Blocks](preview_3.png)
+
+---
+
 # License
 
 MIT License
